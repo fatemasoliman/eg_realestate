@@ -1,0 +1,3 @@
+from scrapy import Spider, Request
+from cairoaqar.items import CairoaqarItem
+import re
